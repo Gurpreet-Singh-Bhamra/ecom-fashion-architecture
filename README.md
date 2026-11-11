@@ -1,4 +1,4 @@
-# 🛍️ High-Concurrency E-Commerce Fashion Platform (Architecture & Specs)
+# High-Concurrency E-Commerce Fashion Platform (Architecture & Specs)
 
 > **Live Preview:** [fashion.tfsdigital.co.uk](https://tfsdigital.co.uk)  
 > **Engineering Lead:** Gurpreet Bhamra | TFS Digital  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📐 Executive Overview
+## Executive Overview
 
 A high-performance, headless e-commerce architecture built for high-concurrency retail environments. Engineered with a focus on sub-100ms core web vitals, resilient checkout pipelines, and automated end-to-end regression testing.
 
@@ -17,7 +17,7 @@ A high-performance, headless e-commerce architecture built for high-concurrency 
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+## Tech Stack & Infrastructure
 
 * **Frontend:** Next.js (App Router), React, Tailwind CSS, TypeScript
 * **State & Data:** Server-Side Rendering (SSR), Incremental Static Regeneration (ISR)
@@ -26,7 +26,7 @@ A high-performance, headless e-commerce architecture built for high-concurrency 
 
 ---
 
-## 📊 System Sequence Diagram
+## System Sequence Diagram
 
 ```mermaid
 sequenceDiagram
