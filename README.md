@@ -1,8 +1,8 @@
 # High-Concurrency E-Commerce Fashion Platform (Architecture & Specs)
 
-> **Live Preview:** [fashion.tfsdigital.co.uk](https://tfsdigital.co.uk)  
-> **Engineering Lead:** Gurpreet Bhamra | TFS Digital  
-> **Repository Type:** Public Architecture & Quality Engineering Showcase (Production Codebase Private)
+> **Live Storefront:** [jbdesignz.uk](https://www.jbdesignz.uk/)  
+> **Architected & Engineered by:** Gurpreet Bhamra ([TFS Digital](https://www.tfsdigital.co.uk))  
+> **Repository Scope:** Public Architecture & QA Showcase (Commercial Source Code Private)
 
 ---
 
