@@ -44,3 +44,23 @@ sequenceDiagram
     API->>Stripe: Creates Payment Intent
     Stripe-->>Customer: Secure Checkout Session Rendered
 ```
+---
+
+## Core Technical Features Showcase
+
+1. **Optimistic Inventory Reservations:** Prevents double-booking during flash sales using atomic state locks.
+2. **Automated E2E Safety Net:** Full Playwright test suite covering cart persistence, coupon engine validation, and checkout webhooks.
+3. **WCAG 2.1 AA Compliance:** Keyboard-navigable drawer filters, screen-reader friendly modal dialogs, and automated color-contrast assertion passes.
+
+---
+
+## Repository Structure
+
+```text
+├── README.md
+├── docs/
+│   ├── ARCHITECTURE.md
+│   └── E2E_TEST_STRATEGY.md
+└── samples/
+    ├── optimistic-cart-reducer.ts
+    └── checkout-flow.spec.ts
